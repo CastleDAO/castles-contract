@@ -22,9 +22,6 @@
 */
 ```
 
-Based on [Loot for forkers](https://github.com/jamiew/loot-fork)
-
-
 
 ## Setup
 
